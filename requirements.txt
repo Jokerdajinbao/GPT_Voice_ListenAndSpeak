@@ -1,0 +1,10 @@
+openai
+gradio==3.41.0
+modelscope
+kantts
+pytorch_wavelets
+tensorboardX
+funasr
+torchaudio
+hdbscan
+umap
