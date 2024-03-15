@@ -8,8 +8,7 @@ from modelscope.pipelines import pipeline
 from modelscope.utils.constant import Tasks
 from modelscope.outputs import OutputKeys
 
-openai.api_base = 'https://key.langchain.com.cn/v1'
-openai.api_key = 'sk-kcfJcDXKztSEuMxaSqVjvuniMFIlz8HSr2xApuxivkNINiEc'
+openai.api_key = '替换为openai_key'
 
 API_KEY = "***"#填百度TTS的api
 SECRET_KEY = "***"
